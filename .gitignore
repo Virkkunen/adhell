@@ -1,1 +1,9 @@
-knoxsdk.jar
+*.jar
+adhell3-master/*
+android-sdk/*
+cmdline-tools/*
+jdk8*
+commandlinetools-linux*
+OpenJDK8U-jdk_x64_linux_hotspot*
+*.apk
+*.zip
