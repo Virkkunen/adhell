@@ -7,3 +7,4 @@ commandlinetools-linux*
 OpenJDK8U-jdk_x64_linux_hotspot*
 *.apk
 *.zip
+log.txt
