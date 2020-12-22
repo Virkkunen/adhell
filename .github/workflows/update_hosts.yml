@@ -27,4 +27,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: powershell .\hosts-generator\generator\build_hosts.ps1
+        run: powershell hosts_generator/generator/build_hosts.ps1
