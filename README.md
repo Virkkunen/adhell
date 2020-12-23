@@ -55,6 +55,7 @@ Build the apk by getting the latest source from gitlab (Knox libs and app.proper
 - The apk is in the same folder as the script named `adhell3_xxx.apk`
 
 # Credits
+- FusionJack: https://gitlab.com/fusionjack
 - cURL: https://curl.haxx.se/windows/ (Windows)
 - 7za: https://github.com/develar/7zip-bin/ (Windows)
 - Android SDK: https://developer.android.com/studio/
