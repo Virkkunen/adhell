@@ -3,6 +3,9 @@ name: hosts_generator
 on:
   schedule:
     - cron: '0 12 * * SUN'
+  push:
+    branches: 
+      - "main"
 
 jobs:
   hosts_generator:
