@@ -1,21 +1,21 @@
-name: CI
+name: hosts_generator
+
 on:
   schedule:
     - cron: '0 12 * * SUN'
-  workflow_dispatch:
+
 jobs:
-  build:
+  hosts_generator:
     runs-on: windows-latest
+    
     steps:
       - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }} 
+        
       - name: Update hosts
         run: powershell hosts_generator/generator/build_hosts.ps1
-      - name: push
-        uses: actions/commit@v2.7
+        
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: 'master'
-          commit-message: 'Update hosts'
-          add: .
-          name: Virkkunen
-          email: fredvrkknn@pm.me          
+          commit_message: Update hosts 
