@@ -41,7 +41,7 @@ $out_file          = "$(Split-Path $PSScriptRoot)\hosts"
     Script settings
 #>
 
-$check_heartbeat   = $false
+$check_heartbeat   = $true
 
 <#
     Fetch whitelist
