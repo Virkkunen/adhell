@@ -37,7 +37,7 @@ SET android_sdk_folder=android-sdk
 SET tools_folder=cmdline-tools
 
 SET adhell3_file=adhell3-master.zip
-SET adhell3_url=https://gitlab.com/fusionjack/adhell3/-/archive/master/%adhell3_file%
+SET adhell3_url=https://gitlab.com/TwentyNine78/adhell3/-/archive/master/%adhell3_file%
 SET adhell3_folder=adhell3-master
 SET app_folder=app
 SET libs_folder=app\libs
