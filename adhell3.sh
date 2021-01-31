@@ -45,7 +45,7 @@ android_sdk_url=https://dl.google.com/android/repository/$android_sdk_file
 tools_folder=cmdline-tools
 
 adhell3_file=adhell3-master.zip
-adhell3_url=https://gitlab.com/fusionjack/adhell3/-/archive/master/$adhell3_file
+adhell3_url=https://gitlab.com/TwentyNine78/adhell3/-/archive/master/$adhell3_file
 adhell3_folder=adhell3-master
 app_folder=app
 libs_folder=app/libs
