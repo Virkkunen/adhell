@@ -55,7 +55,7 @@ Build the apk by getting the latest source from gitlab (Knox libs and app.proper
 - The apk is in the same folder as the script named `adhell3_xxx.apk`
 
 ## Remove LeakCanary
-- Open file `adhell3-master\app\build.grade`
+- Open file `adhell3-master/app/build.grade`
 - Comment line `debugImplementation  "com.squareup.leakcanary:leakcanary-android:$leakCanary_version"`
 
 # Credits
