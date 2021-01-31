@@ -37,7 +37,7 @@ SET android_sdk_folder=android-sdk
 SET tools_folder=cmdline-tools
 
 SET adhell3_file=adhell3-master.zip
-SET adhell3_url=https://gitlab.com/fusionjack/adhell3/-/archive/master/%adhell3_file%
+SET adhell3_url=https://gitlab.com/TwentyNine78/adhell3/-/archive/master/%adhell3_file%
 SET adhell3_folder=adhell3-master
 SET app_folder=app
 SET libs_folder=app\libs
@@ -95,7 +95,7 @@ IF NOT EXIST "%zip_os_file%" (
     echo Downloading %zip_file% ...
     bitsadmin /transfer "7za" /download /priority foreground %zip_url% "%cd%\%zip_os_file%" || goto :error
   ) ELSE (
-    echo Please download, rename %zip_file% to %zip_os_file% and copy it to script folder from: 
+    echo Please download, rename %zip_file% to %zip_os_file% and copy it to script folder from:
     echo %zip_url%
     goto:eof
   )
@@ -198,7 +198,7 @@ IF NOT EXIST "%app_properties_file%" (
 IF NOT EXIST %adhell3_folder% (
   echo Getting latest adhell3 source code from gitlab ...
   %curl_bin% %curl_param% -LO %adhell3_url% || goto :error
-  
+
   echo Extracting %adhell3_file% ...
   %zip_os_file% x %adhell3_file% || goto :error
 )
