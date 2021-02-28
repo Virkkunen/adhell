@@ -2,11 +2,7 @@ name: hosts_generator
 
 on:
   schedule:
-    - cron: '0 12 * * SUN'
-  #push:
-  #  branches: 
-  #    - "main"
-
+    - cron: '0 3 * * SUN'
 jobs:
   hosts_generator:
     runs-on: windows-latest
