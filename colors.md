@@ -1,6 +1,6 @@
 # colors.xml
 
-### Dark:
+### Nord:
 `/adhell/adhell3-master/app/src/main/res/values-night/colors.xml`
 
 ```xml
@@ -21,7 +21,7 @@
 </resources>
 ```
 
-### Light
+### Nord Light:
 `/adhell/adhell3-master/app/src/main/res/values`
 
 ```xml
