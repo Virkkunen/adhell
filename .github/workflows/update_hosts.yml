@@ -2,7 +2,7 @@ name: hosts_generator
 
 on:
   schedule:
-    - cron: '0 12 * * SUN'
+    - cron: '0 3 * * SUN'
   #push:
   #  branches: 
   #    - "main"
@@ -10,6 +10,7 @@ on:
 jobs:
   hosts_generator:
     runs-on: windows-latest
+    timeout-minutes: 720
     
     steps:
       - uses: actions/checkout@v2
