@@ -3,14 +3,14 @@ name: hosts_generator
 on:
   schedule:
     - cron: '0 3 * * SUN'
-  #push:
-  #  branches: 
-  #    - "main"
+  push:
+    branches: 
+      - "main"
 
 jobs:
   hosts_generator:
     runs-on: windows-latest
-    timeout-minutes: 720
+    timeout-minutes: 1080
     
     steps:
       - uses: actions/checkout@v2
