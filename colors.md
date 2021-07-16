@@ -42,3 +42,23 @@
 </resources>
 
 ```
+
+### Gruvbox Hard
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#282828</color>
+    <color name="colorPrimaryDark">#3c3836</color>
+    <color name="colorPrimaryLight">#665c54</color>
+    <color name="colorAccent">#8ec07c</color>
+    <color name="colorText">#fbf1c7</color>
+    <color name="colorStatus">@color/colorPrimary</color>
+    <color name="colorBorder">@color/colorPrimary</color>
+    <color name="colorSelector">@color/colorPrimaryDark</color>
+    <color name="colorFab">@color/colorAccent</color>
+    <color name="colorButton">@color/colorAccent</color>
+    <color name="colorRed">#fb4934</color>
+    <color name="colorSnackbar">#928374</color>
+</resources>
+```
