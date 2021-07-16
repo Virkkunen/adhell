@@ -62,3 +62,23 @@
     <color name="colorSnackbar">#928374</color>
 </resources>
 ```
+
+### Material Pale Ocean
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00010a</color>
+    <color name="colorPrimaryDark">#0f111a</color>
+    <color name="colorPrimaryLight">#3b4252</color>
+    <color name="colorAccent">#81a1c1</color>
+    <color name="colorText">#e5e9f0</color>
+    <color name="colorStatus">@color/colorPrimary</color>
+    <color name="colorBorder">@color/colorPrimary</color>
+    <color name="colorSelector">@color/colorPrimaryDark</color>
+    <color name="colorFab">@color/colorAccent</color>
+    <color name="colorButton">@color/colorAccent</color>
+    <color name="colorRed">#bf616a</color>
+    <color name="colorSnackbar">#4c566a</color>
+</resources>
+```
