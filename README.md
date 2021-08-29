@@ -30,6 +30,17 @@ Build the apk by getting the latest source from gitlab (Knox libs and app.proper
 - Make sure that file is in the same folder as your script.
 - See also [README on adhell3 repository](https://gitlab.com/fusionjack/adhell3#customization) for additional possible options
 
+### My properties
+```
+domain.limit=99999
+enable.disableApps=true
+enable.appComponent=true
+appComponent.showSystemApps=true
+default.host=https://raw.githubusercontent.com/Virkkunen/adhell/main/hosts
+blockedDomain.duration.ui=48
+blockedDomain.duration.db=168
+```
+
 ## Windows x64
 - Download the script `adhell3.cmd` locally to your computer in a new empty folder (e.g. `C:\Adhell3`)
 - Open a windows console (Press Windows symbol + R and type `cmd`)
@@ -54,7 +65,7 @@ Build the apk by getting the latest source from gitlab (Knox libs and app.proper
   - `bash adhell3.sh clean build`
 - The apk is in the same folder as the script named `adhell3_xxx.apk`
 
-## Remove LeakCanary
+## Remove LeakCanary (for Twenty's build)
 - Open file `adhell3-master/app/build.grade`
 - Comment line `debugImplementation  "com.squareup.leakcanary:leakcanary-android:$leakCanary_version"`
 
