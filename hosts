@@ -20,6 +20,7 @@ b.stats.paypal.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons5.gvt3.com
+branch.io
 c.amazon-adsystem.com
 c.evidon.com
 cd.connatix.com
@@ -68,6 +69,7 @@ pagead2.googlesyndication.com
 phonograph2.voxmedia.com
 pix.spot.im
 powerad.ai
+prod-collecticon.outlookmobile.com
 quantcast.mgr.consensu.org
 rain.com
 recommender.scarabresearch.com
@@ -87,10 +89,12 @@ sspapi-prd.samsungrs.com
 static.chartbeat.com
 static.cloudflareinsights.com
 static.doubleclick.net
+static.hotjar.com
 t.appsflyer.com
 t.in
 tags.tiqcdn.com
 tracking.octoprint.org
+us1.wzrkt.com
 visits.inlocomedia.com
 web.vortex.data.microsoft.com
 woodpecker.uc.cn
