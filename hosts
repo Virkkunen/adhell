@@ -20,6 +20,7 @@ b.stats.paypal.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons5.gvt3.com
+bidder.criteo.com
 branch.io
 c.amazon-adsystem.com
 c.evidon.com
@@ -60,6 +61,7 @@ k.intellitxt.com
 launches.appsflyer.com
 log.mmstat.com
 lytics.com
+mads.amazon-adsystem.com
 metrics-logger.spot.im
 mobile.pipe.aria.microsoft.com
 ms.applovin.com
@@ -78,6 +80,7 @@ rt.applovin.com
 s.amazon-adsystem.com
 s.go-mpulse.net
 sb.scorecardresearch.com
+sdk-analytics.inlocomedia.com
 sdk.inlocomedia.com
 sec.umeng.com
 securepubads.g.doubleclick.net
