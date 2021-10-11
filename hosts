@@ -38,9 +38,11 @@ crashlyticsreports-pa.googleapis.com
 csi.gstatic.com
 d.applovin.com
 direct-events-collector.spot.im
+dit.whatsapp.net
 djust.net.in
 etl.tindersparks.com
 events-collector.spot.im
+fdfe4ed62699.cdn4.forter.com
 firebase-settings.crashlytics.com
 firebaselogging.googleapis.com
 fls-na.amazon.com
@@ -51,10 +53,12 @@ googleads.g.doubleclick.net
 googleadservices.com
 googletagmanager.com
 graph.facebook.com
+graph.instagram.com
 h-adashx.ut.taobao.com
 h-adashx4ae.ut.taobao.com
 id.google.com
 imasdk.googleapis.com
+in.appcenter.ms
 inapps.appsflyer.com
 js-agent.newrelic.com
 k.intellitxt.com
@@ -84,6 +88,7 @@ sdk-analytics.inlocomedia.com
 sdk.inlocomedia.com
 sec.umeng.com
 securepubads.g.doubleclick.net
+self.events.data.microsoft.com
 sessions.bugsnag.com
 settings.crashlytics.com
 siteimproveanalytics.com
@@ -105,3 +110,4 @@ www.google-analytics.com
 www.googleadservices.com
 www.googletagmanager.com
 www.googletagservices.com
+www.srmdata.com
