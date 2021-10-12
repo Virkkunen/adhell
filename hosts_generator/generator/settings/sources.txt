@@ -1,4 +1,3 @@
-http://someonewhocares.org/hosts/hosts
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
@@ -8,11 +7,3 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://dbl.oisd.nl/basic/
 https://block.energized.pro/spark/formats/domains.txt
 https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt
-https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt
-https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt
-https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
-https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt
-https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt
-https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
