@@ -38,9 +38,11 @@ cdn.taboola.com
 cdn.tinypass.com
 cdn.viglink.com
 click.pocoo.org
+cmp.uniconsent.com
 collector.githubapp.com
 concertads-configs.vox-cdn.com
 connect.facebook.net
+contextual.media.net
 crashlyticsreports-pa.googleapis.com
 csi.gstatic.com
 d.applovin.com
@@ -54,6 +56,7 @@ fdfe4ed62699.cdn4.forter.com
 firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
+fls-na.amazon-adsystem.com
 fls-na.amazon.com
 geolocation.onetrust.com
 gm.mmstat.com
@@ -65,11 +68,14 @@ graph.facebook.com
 graph.instagram.com
 h-adashx.ut.taobao.com
 h-adashx4ae.ut.taobao.com
+i.skimresources.com
 ib.adnxs.com
 id.google.com
 imasdk.googleapis.com
 in.appcenter.ms
 inapps.appsflyer.com
+ir-na.amazon-adsystem.com
+ir-uk.amazon-adsystem.com
 js-agent.newrelic.com
 k.intellitxt.com
 launches.appsflyer.com
@@ -98,6 +104,7 @@ rt.ad-score.com
 rt.applovin.com
 s.amazon-adsystem.com
 s.go-mpulse.net
+s.nitropay.com
 s.skimresources.com
 sb.scorecardresearch.com
 sdk-analytics.inlocomedia.com
@@ -128,6 +135,7 @@ visits.inlocomedia.com
 vortex.data.microsoft.com
 web.vortex.data.microsoft.com
 woodpecker.uc.cn
+www.dwin2.com
 www.google-analytics.com
 www.googleadservices.com
 www.googletagmanager.com
