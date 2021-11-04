@@ -1,11 +1,13 @@
 9to5mac-com.videoplayerhub.com
 a.pub.network
+aax-us-iad.amazon.com
 accscdn.m.taobao.com
 adashx4ae.ut.taobao.com
 ads.mopub.com
 ads.pro-market.net
 adservice.google.com
 adservice.google.com.br
+amp-reddit-com.cdn.ampproject.org
 android.bugly.qq.com
 ap.lijit.com
 api-2-0.spot.im
@@ -27,6 +29,7 @@ beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons5.gvt3.com
 bidder.criteo.com
+bootstraplugin.com
 branch.io
 c.amazon-adsystem.com
 c.evidon.com
@@ -60,6 +63,7 @@ firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 fls-na.amazon-adsystem.com
 fls-na.amazon.com
+fls-na.amazon.com.br
 geolocation.onetrust.com
 gm.mmstat.com
 google-analytics.com
@@ -70,6 +74,7 @@ graph.facebook.com
 graph.instagram.com
 h-adashx.ut.taobao.com
 h-adashx4ae.ut.taobao.com
+i-ytimg-com.cdn.ampproject.org
 i.skimresources.com
 ib.adnxs.com
 id.google.com
@@ -85,6 +90,7 @@ launches.appsflyer.com
 log.mmstat.com
 lytics.com
 mads.amazon-adsystem.com
+mc.yandex.ru
 metrics-logger.spot.im
 mobile.launchdarkly.com
 mobile.pipe.aria.microsoft.com
@@ -114,6 +120,7 @@ sb.scorecardresearch.com
 sdk-analytics.inlocomedia.com
 sdk.inlocomedia.com
 sec.umeng.com
+secure-gravatar-com.cdn.ampproject.org
 secure.adnxs.com
 secure.quantserve.com
 securepubads.g.doubleclick.net
@@ -127,13 +134,16 @@ static.chartbeat.com
 static.cloudflareinsights.com
 static.doubleclick.net
 static.hotjar.com
+stats.pusher.com
 stats.wp.com
 t.appsflyer.com
 t.in
 tag.crsspxl.com
 tags.tiqcdn.com
+tecnoblog-net.cdn.ampproject.org
 tm.jsuol.com.br
 tracking.octoprint.org
+unagi-na.amazon.com
 us1.wzrkt.com
 visits.inlocomedia.com
 vortex.data.microsoft.com
