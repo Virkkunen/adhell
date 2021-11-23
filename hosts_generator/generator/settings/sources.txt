@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://block.energized.pro/bluGo/formats/hosts
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
