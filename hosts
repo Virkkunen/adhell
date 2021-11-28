@@ -1,6 +1,7 @@
 9to5mac-com.videoplayerhub.com
 a.pub.network
 aax-us-iad.amazon.com
+abtest.alibaba.com
 accscdn.m.taobao.com
 adashx4ae.ut.taobao.com
 ads.mopub.com
@@ -8,6 +9,7 @@ ads.pro-market.net
 adservice.google.com
 adservice.google.com.br
 amp-reddit-com.cdn.ampproject.org
+amplify.outbrain.com
 android.bugly.qq.com
 ap.lijit.com
 api-2-0.spot.im
@@ -43,6 +45,8 @@ cdn.permutive.com
 cdn.taboola.com
 cdn.tinypass.com
 cdn.viglink.com
+cdn4.mxpnl.com
+click.clear-informa.com.br
 click.pocoo.org
 cmp.uniconsent.com
 collector.githubapp.com
@@ -53,6 +57,7 @@ crashlyticsreports-pa.googleapis.com
 csi.gstatic.com
 d.applovin.com
 direct-events-collector.spot.im
+dis.us.criteo.com
 dit.whatsapp.net
 djust.net.in
 dmx.districtm.io
@@ -73,12 +78,14 @@ googleadservices.com
 googletagmanager.com
 graph.facebook.com
 graph.instagram.com
+gum.criteo.com
 h-adashx.ut.taobao.com
 h-adashx4ae.ut.taobao.com
 i-ytimg-com.cdn.ampproject.org
 i.skimresources.com
 ib.adnxs.com
 id.google.com
+idsync.rlcdn.com
 imasdk.googleapis.com
 improving.duckduckgo.com
 in.appcenter.ms
@@ -86,6 +93,8 @@ inapps.appsflyer.com
 ir-na.amazon-adsystem.com
 ir-uk.amazon-adsystem.com
 js-agent.newrelic.com
+js.hs-analytics.net
+js.hs-banner.com
 k.intellitxt.com
 launches.appsflyer.com
 log.mmstat.com
@@ -121,6 +130,7 @@ s.nitropay.com
 s.skimresources.com
 s1-wp-com.cdn.ampproject.org
 sb.scorecardresearch.com
+script.hotjar.com
 sdk-analytics.inlocomedia.com
 sdk.inlocomedia.com
 sec.umeng.com
@@ -136,6 +146,7 @@ ssl.google-analytics.com
 sspapi-prd.samsungrs.com
 static.chartbeat.com
 static.cloudflareinsights.com
+static.criteo.net
 static.doubleclick.net
 static.hotjar.com
 stats.pusher.com
@@ -146,6 +157,7 @@ tag.crsspxl.com
 tags.tiqcdn.com
 tecnoblog-net.cdn.ampproject.org
 tm.jsuol.com.br
+track.hubspot.com
 tracking.octoprint.org
 unagi-na.amazon.com
 us1.wzrkt.com
@@ -159,6 +171,7 @@ www-windowscentral-com.cdn.ampproject.org
 www.dwin2.com
 www.google-analytics.com
 www.googleadservices.com
+www.googleoptimize.com
 www.googletagmanager.com
 www.googletagservices.com
 www.srmdata.com
